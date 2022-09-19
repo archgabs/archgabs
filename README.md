@@ -1,8 +1,8 @@
 <h1>Bem-vindo ao meu perfil!</h1>
 <div>
   <a href="https://github.com/archgabs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=archgabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archgabs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=archgabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archgabs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div><br>
 <div style="display: inline_block" align="left">
