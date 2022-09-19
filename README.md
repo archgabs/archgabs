@@ -1,7 +1,7 @@
 <h1 align="center">Hi! My name is Gabriel</h1>
 <h3 align="center">I'm a font-end focused developer from Brazil!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: joão-gabriel-peixoto-rodrigues</h3>
 <p align="left">
 </p>
 
