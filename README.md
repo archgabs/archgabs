@@ -16,6 +16,6 @@
 
 <hr>
 
-<a href="https://www.youtube.com/watch?v=SRgLA8X5N_4"><img src="banner.gif" width="800" height=200></a>
+<a href="https://www.youtube.com/watch?v=-boKk8uhmcY"><img src="banner.gif" width="800" height=200></a>
 <br>
 <small>Click the banner at your own <foo style="color: red">risk</foo>!</small>
